@@ -1,0 +1,19 @@
+{
+  "name": "oop-module10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Narmstrongv/jest-another-RPG-module10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Narmstrongv/jest-another-RPG-module10/issues"
+  },
+  "homepage": "https://github.com/Narmstrongv/jest-another-RPG-module10#readme"
+}
